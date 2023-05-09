@@ -10,3 +10,9 @@
 ## 📁 Acesso ao projeto
 
 Você pode acessar o projeto feito por mim clicando [aqui]( https://aliceurzedadev.github.io/alura-plus/).
+
+
+## ✔️ Tecnologias utilizadas:
+
+- ``CSS``
+- ``HTML``
